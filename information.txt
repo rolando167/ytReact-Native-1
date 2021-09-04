@@ -1,0 +1,24 @@
+
+Proyecto walkthrough:
+
+🔴 Build React Native Onboarding Screens Under 10min || React native UI || Speed Code
+
+Instalar luego de crear:
+
+>npm i @expo-google-fonts/montserrat expo-font
+
+>expo install expo-app-loading
+
+>npm i react-native-swiper
+
+
+------------ opcional
+ del vide de faztCode : 1hora:30 min
+https://reactnavigation.org/
+
+------------
+
+------------
+
+
+------------
